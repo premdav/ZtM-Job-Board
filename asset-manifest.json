@@ -1,15 +1,17 @@
 {
-  "main.css": "/ZtM-Job-Board/static/css/main.6d0277dc.chunk.css",
-  "main.js": "/ZtM-Job-Board/static/js/main.1ccbdfc7.chunk.js",
-  "main.js.map": "/ZtM-Job-Board/static/js/main.1ccbdfc7.chunk.js.map",
-  "runtime~main.js": "/ZtM-Job-Board/static/js/runtime~main.3c138f77.js",
-  "runtime~main.js.map": "/ZtM-Job-Board/static/js/runtime~main.3c138f77.js.map",
-  "static/css/2.9a36077b.chunk.css": "/ZtM-Job-Board/static/css/2.9a36077b.chunk.css",
-  "static/js/2.e73fe6ca.chunk.js": "/ZtM-Job-Board/static/js/2.e73fe6ca.chunk.js",
-  "static/js/2.e73fe6ca.chunk.js.map": "/ZtM-Job-Board/static/js/2.e73fe6ca.chunk.js.map",
-  "index.html": "/ZtM-Job-Board/index.html",
-  "precache-manifest.05fbe5f0f96bc21827d8d7bdca1596ed.js": "/ZtM-Job-Board/precache-manifest.05fbe5f0f96bc21827d8d7bdca1596ed.js",
-  "service-worker.js": "/ZtM-Job-Board/service-worker.js",
-  "static/css/2.9a36077b.chunk.css.map": "/ZtM-Job-Board/static/css/2.9a36077b.chunk.css.map",
-  "static/css/main.6d0277dc.chunk.css.map": "/ZtM-Job-Board/static/css/main.6d0277dc.chunk.css.map"
+  "files": {
+    "main.css": "./static/css/main.2dad70af.css",
+    "main.js": "./static/js/main.8586559b.js",
+    "static/js/711.3fe37fd2.chunk.js": "./static/js/711.3fe37fd2.chunk.js",
+    "static/js/275.0fd364bf.chunk.js": "./static/js/275.0fd364bf.chunk.js",
+    "index.html": "./index.html",
+    "main.2dad70af.css.map": "./static/css/main.2dad70af.css.map",
+    "main.8586559b.js.map": "./static/js/main.8586559b.js.map",
+    "711.3fe37fd2.chunk.js.map": "./static/js/711.3fe37fd2.chunk.js.map",
+    "275.0fd364bf.chunk.js.map": "./static/js/275.0fd364bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dad70af.css",
+    "static/js/main.8586559b.js"
+  ]
 }
